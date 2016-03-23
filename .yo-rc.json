@@ -1,0 +1,24 @@
+{
+  "generator-jhipster": {
+    "baseName": "findmeatable",
+    "packageName": "com.findmeatable",
+    "packageFolder": "com/findmeatable",
+    "authenticationType": "session",
+    "hibernateCache": "ehcache",
+    "clusteredHttpSession": "no",
+    "websocket": "spring-websocket",
+    "databaseType": "sql",
+    "devDatabaseType": "mysql",
+    "prodDatabaseType": "mysql",
+    "searchEngine": "elasticsearch",
+    "useSass": false,
+    "buildTool": "gradle",
+    "frontendBuilder": "grunt",
+    "enableTranslation": false,
+    "enableSocialSignIn": false,
+    "rememberMeKey": "daea399c49c3f3d3223af48aa5868bc9c25145b6",
+    "testFrameworks": [
+      "gatling"
+    ]
+  }
+}
